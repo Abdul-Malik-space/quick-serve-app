@@ -1,0 +1,24 @@
+node_modules
+.env
+dist
+build
+coverage
+*.log 
+.DS_Store
+.idea
+.vscode
+*.sublime-project
+*.sublime-workspace
+*.swp
+*.swo
+*.bak
+*.tmp
+*.cache
+*.tsbuildinfo
+*.env
+*.env.local
+*.env.development
+*.env.test
+
+# Ignore all files in the public directory except for index.html
+/public/*
